@@ -1,6 +1,6 @@
 # Reproducible-Research-Projects
-<p>Daniel Maurath<br>
-July, 2014<br>
+<p>Antonio Quintieri<br>
+January, 2018<br>
 ###About
 This was the first project for the <strong>Reproducible Research</strong> course in Coursera's Data Science specialization track. The purpose of the project was to answer a series of questions using data collected from a <a href="http://en.wikipedia.org/wiki/Fitbit" rel="nofollow">FitBit</a>.</p>
 <p>##Synopsis

@@ -27,13 +27,6 @@ Loading and preprocessing the data
 
 Download, unzip and load data into data frame data.
 
-if(!file.exists("getdata-projectfiles-UCI HAR Dataset.zip")) {
-        temp <- tempfile()
-        download.file("http://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip",temp)
-        unzip(temp)
-        unlink(temp)
-}
-
 data <- read.csv("activity.csv")
 What is mean total number of steps taken per day?
 
